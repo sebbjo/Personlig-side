@@ -1,0 +1,51 @@
+.body-background {
+    background-color: oldlace;
+}
+
+
+h1 {
+    justify-content: center;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    justify-content: center;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.profile-picture {
+    display: flex;
+    border-radius: 50%;
+    
+}
+
+.header {
+    background-color: oldlace;
+}
+
+.svg-ikon {
+    background-color: oldlace;
+}
+
+.btn-link {
+    color: black !important;
+
+}
+
+.banner {
+    display: flex;
+    justify-content: center;
+}
+
+.icons {
+    display: flex;
+    justify-content: center;
+    
+    
+}
+
+
+
+
